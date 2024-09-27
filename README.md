@@ -17,7 +17,7 @@ RAGE then measures how well the LLM recognized the relevant documents.
 *Figure 1: RAGE Evaluation Process. Examples are extracted from the [Natural Questions](https://ai.google.com/research/NaturalQuestions) Dataset.*
 
 For a more detailed description of the inner workings, dataset creation and metrics, we refer to our paper:<br>
-→ **Evaluating and Fine-Tuning Retrieval-Augmented Language Models to Generate Text With Accurate Citations** (coming soon)
+→ [**Evaluating and Fine-Tuning Retrieval-Augmented Language Models to Generate Text With Accurate Citations**](https://aclanthology.org/2024.konvens-main.6)
 
 ## Installation
 
@@ -43,7 +43,7 @@ It gives you a quick introduction into how to set up and run an evaluation with 
 
 Note that RAGE works with any datasets that comply with our format. Feel free to create your own datasets that suit your needs.
 
-For guidance on creating one, take a look at our preprocessed examples or refer to our paper (coming soon).
+For guidance on creating one, take a look at our preprocessed examples or refer to our [paper](https://aclanthology.org/2024.konvens-main.6).
 
 Our datasets are built on top of those from the BEIR Benchmark ([BEIR Benchmark](https://doi.org/10.48550/arXiv.2104.08663)).
 
